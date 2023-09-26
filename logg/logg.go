@@ -1,9 +1,10 @@
 package logg
 
 import (
-	"common"
 	"log"
 	"os"
+
+	"github.com/artlukm/common"
 )
 
 // DataLOG data
